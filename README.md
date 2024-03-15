@@ -22,7 +22,7 @@
 ![image](https://user-images.githubusercontent.com/108859216/208279321-cdd69ff4-6ceb-4edf-ba98-e0df668387ec.png)
 ![image](https://user-images.githubusercontent.com/108859216/208279334-8646ec24-50d2-4080-8c21-6241f68a9798.png)
 
-[video](https://drive.google.com/file/d/1HlMtamJa7LENXypa4YsthV4CVTtTZg8R/view?usp=drive_link)
+[demo](https://drive.google.com/file/d/1HlMtamJa7LENXypa4YsthV4CVTtTZg8R/view?usp=drive_link)
 
 ## 開発体制  
 
